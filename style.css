@@ -150,5 +150,14 @@ i {
     box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.10);
 }
 
+#end-point {
+    position: absolute;
+    top: 8%;
+    left: 68%;
+    width: 30%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid black
+}
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: #EB4D4D; }
